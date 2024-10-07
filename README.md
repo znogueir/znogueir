@@ -1,16 +1,17 @@
-## Hi there 👋
+#### CS student at [42 Paris](https://www.42.fr/).
 
-<!--
-**znogueir/znogueir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝 [Resume/CV](https://read.cv/znogueir)
+&emsp;&nbsp;|&emsp;
+👨‍💼 [LinkedIn](https://linkedin.com/in/zachary-nogueira)
+&emsp;&nbsp;|&emsp;
+📫 zachary.nogueira@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👨‍💻 Skillset
+
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,npm,threejs,vite&theme=dark)](https://skillicons.dev)
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=bash,linux,vscode,git,github,docker,nginx&theme=dark)](https://skillicons.dev)
+
+---
