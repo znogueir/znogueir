@@ -1,4 +1,4 @@
-#### CS student at [42 Paris](https://www.42.fr/).
+### CS student at [42 Paris](https://www.42.fr/).
 
 📝 [Resume/CV](https://read.cv/znogueir)
 &emsp;&nbsp;|&emsp;
