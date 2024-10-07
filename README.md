@@ -1,5 +1,7 @@
 ### CS student at [42 Paris](https://www.42.fr/).
 
+<br>
+
 📝 [Resume/CV](https://read.cv/znogueir)
 &emsp;&nbsp;|&emsp;
 👨‍💼 [LinkedIn](https://linkedin.com/in/zachary-nogueira)
