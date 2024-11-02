@@ -2,9 +2,13 @@
 
 <br>
 
-📝 [Resume/CV](https://read.cv/znogueir)
-&emsp;&nbsp;|&emsp;
+<!--
+🔗 [Website](https://znogueir.something)
+&emsp;&nbsp;|&emsp; -->
+
 👨‍💼 [LinkedIn](https://linkedin.com/in/zachary-nogueira)
+&emsp;&nbsp;|&emsp;
+📝 [Resume/CV](https://read.cv/znogueir)
 &emsp;&nbsp;|&emsp;
 📫 zachary.nogueira@gmail.com
 
