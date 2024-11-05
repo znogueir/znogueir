@@ -16,8 +16,8 @@
 
 #### 👨‍💻 Skillset
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,npm,threejs,vite&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts&theme=dark)](https://skillicons.dev)
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=bash,linux,vscode,git,github,docker,nginx&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,bash,docker,nodejs,react,tailwind,vite,nextjs&theme=dark)](https://skillicons.dev)
 
 ---
