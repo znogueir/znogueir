@@ -2,15 +2,12 @@
 
 <br>
 
-<!--
-🔗 [Website](https://znogueir.something)
-&emsp;&nbsp;|&emsp; -->
-
-👨‍💼 [LinkedIn](https://linkedin.com/in/zachary-nogueira)
+🔗 <a href="https://znogueir.vercel.app" target="_blank">Website</a>
 &emsp;&nbsp;|&emsp;
-📝 [Resume/CV](https://read.cv/znogueir)
+👨‍💼 <a href="https://linkedin.com/in/zachary-nogueira" target="_blank">LinkedIn</a>
 &emsp;&nbsp;|&emsp;
 📫 zachary.nogueira@gmail.com
+
 
 ---
 
