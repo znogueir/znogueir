@@ -2,11 +2,12 @@
 
 <br>
 
-🔗 <a href="https://znogueir.vercel.app" target="_blank">Website</a>
-&emsp;&nbsp;|&emsp;
-👨‍💼 <a href="https://linkedin.com/in/zachary-nogueira" target="_blank">LinkedIn</a>
-&emsp;&nbsp;|&emsp;
-📫 zachary.nogueira@gmail.com
+🔗 [Website](https://znogueir.vercel.app)
+&nbsp;|&nbsp;
+👨‍💼 [LinkedIn](https://linkedin.com/in/zachary-nogueira)
+&nbsp;|&nbsp;
+📫 <a href="mailto:zachary.nogueira@gmail.com">zachary.nogueira@gmail.com</a>
+
 
 
 ---
